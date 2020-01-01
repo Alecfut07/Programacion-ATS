@@ -1,0 +1,5 @@
+En general, los programas escritos en C++ tienen una estructura (basica) compuesta por tres secciones:
+
+1. Directivas de preprocesador
+2. declaraciones globales
+3. declaracion de funciones
